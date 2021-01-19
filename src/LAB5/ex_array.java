@@ -14,9 +14,8 @@ public class ex_array {
         num[1] = num[4] * 2;
 
         for (int val:num) {
-
+            System.out.println(val);
         }
-
 
     }
 }
